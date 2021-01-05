@@ -7,6 +7,7 @@ h1 {
     background-color: cyan;
     padding: 10px;
     font-family: fantasy;
+    width: 210px;
 }
 p {
     margin: 0 auto;
@@ -15,4 +16,15 @@ p {
     padding: 10px;
     font-size: xx-large;
     font-family: 'Times New Roman';
+    width: 700px;
+}
+.tiger {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: dotted 5px aqua;
+    padding: 0;
+    border-radius: 40px;
+    height: 400px;
+    width: 400px;
 }
